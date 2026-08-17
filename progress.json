@@ -113,5 +113,14 @@
     "completed_at": 1786968571.604063,
     "comments": [],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1786968762.224053,
+    "completed_at": 1786968766.64985,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
   }
 ]
